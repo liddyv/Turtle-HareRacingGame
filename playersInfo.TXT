@@ -1,0 +1,2 @@
+turtle, 20, 2, turtle.gif
+hare, 40, 22, hare.gif
